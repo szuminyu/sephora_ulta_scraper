@@ -1,6 +1,6 @@
-## Sephora and Ulta Beauty Location Scrapper
+## Sephora and Ulta Beauty Location Scraper
 
-This is a web-scrapping project at work. (DKC Analytics)
+This is a web-scraping project at work. (DKC Analytics)
 
 Our client wants to understand geo-location of stores from these two huge beauty retail brands, and the information can help them decide the prime market of targetting their audience.
 
